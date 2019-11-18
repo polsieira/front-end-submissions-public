@@ -16,8 +16,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 For Example:
 
-## Travis Rollins
+## Pol Sieira
 
-* [Node Server Tutorial]()
-* [Promise Practice Exercises]()
-* [Web Scraping Workshop]()
+* [Node Server Tutorial](https://github.com/polsieira/node-server-tutorial)
+* [Promise Practice Exercises](https://repl.it/@posi7790/Promise-Practice)
+* [Web Scraping Workshop](https://github.com/polsieira/apartment-scrapper)
